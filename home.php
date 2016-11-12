@@ -6,7 +6,7 @@ $un="";
 $signal=$_SESSION["flag"];
 $un=$_SESSION["fla"];
 //$f=$_SESSION["file"];
-//echo $signal."<br>";
+
 
 if($signal=="ok"){
 ?>
