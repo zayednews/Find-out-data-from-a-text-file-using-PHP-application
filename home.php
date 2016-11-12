@@ -2,7 +2,7 @@
 session_start();
 $signal="";
 $un="";
-//if(isset($_SESSION["flag"]))
+
 $signal=$_SESSION["flag"];
 $un=$_SESSION["fla"];
 //$f=$_SESSION["file"];
