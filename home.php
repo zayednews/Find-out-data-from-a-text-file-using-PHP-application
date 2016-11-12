@@ -15,13 +15,9 @@ if($signal=="ok"){
 
 echo "Welcome ".$_SESSION["fla"]."<br/>";
 
-/*$myfile = fopen($locs, "r") or die("Unable to open file!");
-
-while(!feof($myfile)) {
-	$line=fgets($myfile);
-	echo  $line. "<br>";
-}
-fclose($myfile);*/
+/*
+	echo  "Zn". "<br>";
+*/
 ?>
 <br/>
 
