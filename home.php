@@ -12,7 +12,7 @@ if($signal=="ok"){
 ?>
 <h1>Home Demo</h1>
 <?php
-//echo "Welcome home : ".$_SESSION['uname'];
+
 echo "Welcome ".$_SESSION["fla"]."<br/>";
 
 /*$myfile = fopen($locs, "r") or die("Unable to open file!");
