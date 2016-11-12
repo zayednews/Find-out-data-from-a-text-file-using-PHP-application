@@ -16,13 +16,10 @@ while(!feof($file)) {
 	echo "<br>";
 	//echo "zn";
 	
-	//header("Location:home.php");
+	
 	break;
 }
-/*else{
-	echo "No Data found";
-	//header("Location:index.html");
-}*/
+
 	}
 fclose($file);
 
