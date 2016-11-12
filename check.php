@@ -1,4 +1,4 @@
-<h1>It's server's area</h1>
+<h1>It's server's area where check are are done for Login</h1>
 <?php
 session_start();
 
@@ -7,13 +7,13 @@ $fl=0;
 
 $u=$_POST['uname'];
 $p=$_POST['pass'];
-//echo $u." ".$p;
+
 
 $file = fopen("id.txt", "r") or die("Unable to open file!");
 
 while(!feof($file)) {
 	$line=fgets($file);
-	//echo  $line. "<br>";
+	
 	$var=explode(" ", $line);
 	
 	
