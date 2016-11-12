@@ -1,8 +1,5 @@
 <?php
-/*$uName="";
-if(isset($_POST['uname']))
-	$uName= $_POST['uname'];
-echo $uName;*/
+
 
 ?>
 
