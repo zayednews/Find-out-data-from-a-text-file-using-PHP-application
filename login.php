@@ -1,6 +1,6 @@
 <?php
 
-
+// input data for login which are avaiable in id.txt
 ?>
 
 <form action="check.php" method="post">
