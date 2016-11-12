@@ -1,5 +1,5 @@
 <?php
-
+// type to input data
 ?>
 <form action="file.php"method="post">
 <textarea name="code" placeholder="area:district"></textarea>
